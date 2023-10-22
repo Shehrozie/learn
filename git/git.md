@@ -19,4 +19,10 @@ git remote add origin https://github.com/Shehrozie/learn.git
 # PUSH to github
 git push -u origin main
 
+
+
+# To clone a repo.
+git clone https://github.com/Shehrozie/learn.git
+
+
 ```
